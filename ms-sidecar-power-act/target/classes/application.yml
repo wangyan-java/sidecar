@@ -1,0 +1,20 @@
+server:
+  port: 9090
+spring:
+  application:
+    name: ms-sidecar-power-act
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7777/eureka/
+  instance:
+    prefer-ip-address: true
+
+sidecar:
+  hostname: localhost
+  health-uri: http://localhost:6677/health #配置power-act的/health路径， 以便spring cloud能对其进行健康检查，如果有鉴权，请放开
+#  ip-address: 127.0.0.1
+  port: 6677
+  
+    

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/service-registry-eureka/target/maven-archiver/maven-archiver.iml" filepath="$PROJECT_DIR$/service-registry-eureka/target/maven-archiver/maven-archiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-sidecar-feign/target/classes/META-INF/maven/test.ms.sidecar/ms-sidecar/ms-sidecar (1).iml" filepath="$PROJECT_DIR$/ms-sidecar-feign/target/classes/META-INF/maven/test.ms.sidecar/ms-sidecar/ms-sidecar (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-sidecar-feign/target/classes/META-INF/maven/test.ms.sidecar/ms-sidecar/ms-sidecar (2) (test.ms.sidecar).iml" filepath="$PROJECT_DIR$/ms-sidecar-feign/target/classes/META-INF/maven/test.ms.sidecar/ms-sidecar/ms-sidecar (2) (test.ms.sidecar).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-sidecar-feign/ms-sidecar-feign.iml" filepath="$PROJECT_DIR$/ms-sidecar-feign/ms-sidecar-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-sidecar-power-act/ms-sidecar-power-act.iml" filepath="$PROJECT_DIR$/ms-sidecar-power-act/ms-sidecar-power-act.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-sidecar-power-act/target/classes/META-INF/maven/test.ms.sidecar/ms-sidecar-power-act/ms-sidecar-power-act (1).iml" filepath="$PROJECT_DIR$/ms-sidecar-power-act/target/classes/META-INF/maven/test.ms.sidecar/ms-sidecar-power-act/ms-sidecar-power-act (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-sidecar-power-act/target/classes/META-INF/maven/test.ms.sidecar/ms-sidecar-power-act/ms-sidecar-power-act (2).iml" filepath="$PROJECT_DIR$/ms-sidecar-power-act/target/classes/META-INF/maven/test.ms.sidecar/ms-sidecar-power-act/ms-sidecar-power-act (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/power-act-demo/power-act-demo.iml" filepath="$PROJECT_DIR$/power-act-demo/power-act-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/power-act-demo/target/classes/META-INF/maven/com.demo/power-act-demo/power-act-demo (1).iml" filepath="$PROJECT_DIR$/power-act-demo/target/classes/META-INF/maven/com.demo/power-act-demo/power-act-demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/power-act-demo/target/classes/META-INF/maven/com.demo/power-act-demo/power-act-demo (2).iml" filepath="$PROJECT_DIR$/power-act-demo/target/classes/META-INF/maven/com.demo/power-act-demo/power-act-demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registry-eureka/service-registry-eureka.iml" filepath="$PROJECT_DIR$/service-registry-eureka/service-registry-eureka.iml" />
+    </modules>
+  </component>
+</project>

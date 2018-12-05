@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/power-act-demo/target/classes/META-INF/maven/com.demo/power-act-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/power-act-demo/target/classes/META-INF/maven/com.demo/power-act-demo/pom.properties" />
+        <option value="$PROJECT_DIR$/power-act-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-sidecar-feign/target/classes/META-INF/maven/test.ms.sidecar/ms-sidecar/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-sidecar-feign/target/classes/META-INF/maven/test.ms.sidecar/ms-sidecar/pom.properties" />
+        <option value="$PROJECT_DIR$/ms-sidecar-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-sidecar-power-act/target/classes/META-INF/maven/test.ms.sidecar/ms-sidecar-power-act/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-sidecar-power-act/target/classes/META-INF/maven/test.ms.sidecar/ms-sidecar-power-act/pom.properties" />
+        <option value="$PROJECT_DIR$/ms-sidecar-power-act/pom.xml" />
+        <option value="$PROJECT_DIR$/service-registry-eureka/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/service-registry-eureka/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
